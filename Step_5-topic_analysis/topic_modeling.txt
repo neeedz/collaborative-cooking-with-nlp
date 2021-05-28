@@ -1,0 +1,5 @@
+preliminary work on topic modeling
+
+- frequency of stopwords
+- frequency of nonstopwords
+- most frequently occuring n-grams
