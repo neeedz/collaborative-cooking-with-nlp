@@ -1,6 +1,7 @@
 # NYT Collaborative Cooking with NLP
 
-Project as part of the May 2021 Data Science Boot Camp hosted by The Erdos Institute. Contributors: Shirley Li, Anila Yadavalli, Nida Obatake, and Enkhzaya Enkhtaivan.
+Contributors: Shirley Li, Anila Yadavalli, Nida Obatake, and Enkhzaya Enkhtaivan.
+Project as part of the May 2021 Data Science Boot Camp hosted by The Erdos Institute. 
 
 ## Project
 
